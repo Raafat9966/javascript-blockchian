@@ -1,13 +1,13 @@
 {
 	"name": "javascript-blockchian",
 	"version": "1.0.0",
-	"description": "",
+	"description": "simple block chian for javascript",
 	"main": "index.js",
 	"scripts": {
 		"start": "nodemon index.js"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "Raafat Bahseer",
 	"license": "ISC",
 	"dependencies": {
 		"crypto-js": "^4.1.1",
